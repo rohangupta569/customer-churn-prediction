@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+artifacts/*
+!artifacts/.gitkeep
+data/*.csv
+!data/.gitkeep
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+outputs/
