@@ -1,0 +1,11 @@
+.git
+.github
+.pytest_cache
+.venv
+__pycache__
+data
+notebooks
+tests
+outputs
+artifacts/*.csv
+artifacts/plots
